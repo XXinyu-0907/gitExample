@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,9083782376,LI,XINYU
 employee,stshafer,Shafer,Skylar
